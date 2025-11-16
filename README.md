@@ -110,7 +110,7 @@ _(Hosted on Firebase)_
 
 
 🙋‍♀️ Author
-Radhika Mehra
-🎓 CSE Student, NIT Kurukshetra
-📍 Gurugram, Haryana
-📧 radhikamehra6191@gmail.com
+ Lokesh
+🎓 ME Student, NIT Kurukshetra
+📍 Sikar, Rajasthan
+📧 jatlokesh126@gmail.com
